@@ -22,11 +22,15 @@ ________________________________________
 3.	Görsel Dashboard: Seaborn ile modern ve sunuma hazır grafik çıktısı üretir.
 4.	Aksiyon Önerileri: Sadece veri sunmaz; düşük performanslı bölgeler için pazarlama stratejisi önerir.
 5.	Hata Yönetimi & Temiz Kod: Kurumsal standartlara uygun try-except blokları ve modüler fonksiyon yapısı.
-6.	
+   
 ________________________________________
 📈 Örnek Dashboard Çıktısı
 Proje çalıştırıldığında aşağıdaki gibi bir analiz görseli üretir:
 Not: satis_dashboard.png dosyası otomatik olarak proje klasörüne kaydedilir.
+![Stratejik_Satis_Analizi_ve_Raporlama 1](https://github.com/user-attachments/assets/7d4a3e60-ac20-4433-87aa-cdbf522c4f63)
+![Stratejik_Satis_Analizi_ve_Raporlama 2](https://github.com/user-attachments/assets/e2ee447c-ecbd-4351-a5f4-d4c59bd1a681)
+
+
 
 ________________________________________
 📂 Kurulum ve Çalıştırma
