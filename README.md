@@ -40,7 +40,6 @@ pip install pandas seaborn matplotlib
 2.	sales_analysis.py dosyasını çalıştırın veya Jupyter Notebook hücresini execute edin.
 3.	Oluşan .png (Görsel) ve .txt (Rapor) dosyalarını inceleyin.
 ________________________________________
-
-Hazırlayan: 
-[Mercan KÖSEOĞLU / https://www.linkedin.com/in/mercan-k%C3%B6seo%C4%9Flu-45b93a374/tr/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWfv83ljIS7esoH784ncFiw%3D%3D] Tarih: 2026-04-03
+Geliştiren: Mercan Köseoğlu
+Data Analyst & S  ne  demekAP ABAP Consultant    Tarih: 2026-04-03
 
